@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm @teum3048 👋
+
+
+- 🤯 I'm coding on TS, Python, C++
+- 💬 Ask me about Web, Docker, Math
+- 📫 How to reach me: [t.me/teum3048](https://t.me/teum3048)
+
+> ⚡ Fun fact:
+>
+> Why am I surrounded by ML-engineers only?
 
 <!--
 **TeUm3048/teum3048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
