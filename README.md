@@ -5,8 +5,6 @@
 - 💬 Ask me about Web, Docker, Math
 - 📫 How to reach me: [t.me/teum3048](https://t.me/teum3048)
 
-> ⚡ Fun fact:
->
 > Why am I surrounded by ML-engineers only?
 
 <!--
